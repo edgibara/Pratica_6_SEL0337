@@ -1,4 +1,5 @@
 # Pratica_6_SEL0337
+Pedro Henrique Simões e Eduardo Correia Gibara
 Resumo da Prática de Laboratório: Desenvolvimento de Projeto para Controle de Acesso com Raspberry Pi e Periféricos Embarcados
 
 Introdução:
