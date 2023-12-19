@@ -12,6 +12,8 @@ O objetivo principal da prática é desenvolver um projeto que sirva como base p
 
 Controle de Acesso via Tag:
 O módulo RFID-MFRC522, operando em frequência HF (13,56 MHz até 5m), utiliza a tecnologia de identificação por radiofrequência. A comunicação com o sistema embarcado é feita via SPI, um protocolo de comunicação síncrona. O módulo é capaz de gravar informações nas tags, e a comunicação é estabelecida por linhas principais como MISO, MOSI, SCK e SS/CS.
+![MontagemCompleta](https://github.com/edgibara/Pratica_6_SEL0337/assets/145056076/ff0569b2-de12-4000-91e4-5bf8af3bf039)
+
 
 Câmera e Reconhecimento Facial:
 Para a parte da câmera, recomenda-se o uso da biblioteca OpenCV, com o método Haar Cascade, um algoritmo de machine learning que atua como classificador, buscando padrões faciais analisando a intensidade dos pixels em uma base de dados. Infelizmente, a câmera não funcionou corretamente durante a prática e só foi possível criar uma versão alternativa do código com o OpenCV sem realmente poder testá-lo.
