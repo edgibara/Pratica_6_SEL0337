@@ -17,6 +17,9 @@ O módulo RFID-MFRC522, operando em frequência HF (13,56 MHz até 5m), utiliza 
 
 Câmera e Reconhecimento Facial:
 Para a parte da câmera, recomenda-se o uso da biblioteca OpenCV, com o método Haar Cascade, um algoritmo de machine learning que atua como classificador, buscando padrões faciais analisando a intensidade dos pixels em uma base de dados. Infelizmente, a câmera não funcionou corretamente durante a prática e só foi possível criar uma versão alternativa do código com o OpenCV sem realmente poder testá-lo.
+![camera](https://github.com/edgibara/Pratica_6_SEL0337/assets/145056076/a4b0511f-1f6b-4323-b310-f7dc9b7cd1aa)
+
+
 
 Git/GitHub:
 O sistema de versionamento Git e o repositório GitHub são cruciais para a documentação e controle de versões do projeto. O Git lida com inconsistências e integra alterações no código feitas por diferentes partes do projeto. Repositórios no GitHub também servem como documentação para facilitar a implementação em outros projetos, promovendo a colaboração em grandes equipes.
