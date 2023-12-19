@@ -14,7 +14,7 @@ Controle de Acesso via Tag:
 O módulo RFID-MFRC522, operando em frequência HF (13,56 MHz até 5m), utiliza a tecnologia de identificação por radiofrequência. A comunicação com o sistema embarcado é feita via SPI, um protocolo de comunicação síncrona. O módulo é capaz de gravar informações nas tags, e a comunicação é estabelecida por linhas principais como MISO, MOSI, SCK e SS/CS.
 
 Câmera e Reconhecimento Facial:
-Para a parte da câmera, recomenda-se o uso da biblioteca OpenCV, com o método Haar Cascade, um algoritmo de machine learning que atua como classificador, buscando padrões faciais analisando a intensidade dos pixels em uma base de dados.
+Para a parte da câmera, recomenda-se o uso da biblioteca OpenCV, com o método Haar Cascade, um algoritmo de machine learning que atua como classificador, buscando padrões faciais analisando a intensidade dos pixels em uma base de dados. Infelizmente, a câmera não funcionou corretamente durante a prática e só foi possível criar uma versão alternativa do código com o OpenCV sem realmente poder testá-lo.
 
 Git/GitHub:
 O sistema de versionamento Git e o repositório GitHub são cruciais para a documentação e controle de versões do projeto. O Git lida com inconsistências e integra alterações no código feitas por diferentes partes do projeto. Repositórios no GitHub também servem como documentação para facilitar a implementação em outros projetos, promovendo a colaboração em grandes equipes.
